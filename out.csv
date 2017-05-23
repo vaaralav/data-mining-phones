@@ -1,0 +1,21 @@
+DeviceName,android,cpu_cores,cpu_speed,edge,gprs,ios,resolution,size,weight,windows_phone,wlan
+Apple iPhone 6s,0,2,1.84,1,1,1,1000500,4.7,143,0,1
+Apple iPhone 6s Plus,0,2,1.84,1,1,1,2073600,5.5,192,0,1
+Apple iPhone 7 Plus,0,4,2.34,1,1,1,2073600,5.5,188,0,1
+OnePlus 3T,1,4,NaN,1,1,0,2073600,5.5,158,0,1
+Microsoft Lumia 950,0,4,1.82,1,1,0,3686400,5.2,150,1,1
+Microsoft Lumia 950 XL,0,4,1.5,1,1,0,3686400,5.7,165,1,1
+Microsoft Lumia 950 Dual SIM,0,4,1.82,1,1,0,3686400,5.2,150,1,1
+Microsoft Lumia 950 XL Dual SIM,0,4,1.5,1,1,0,3686400,5.7,165,1,1
+HP Elite x3,0,4,NaN,1,1,0,3686400,5.96,195,1,1
+Oppo R9s,1,1,2,1,1,0,2073600,5.5,145,0,1
+Oppo R9s Plus,1,1,NaN,1,1,0,2073600,6,185,0,1
+Samsung Galaxy S7,1,1,NaN,1,1,0,3686400,5.1,NaN,0,1
+Samsung Galaxy S7 edge,1,4,NaN,1,1,0,3686400,5.5,157,0,1
+Samsung Galaxy S7 (USA),1,4,NaN,1,1,0,3686400,5.1,152,0,1
+Samsung Galaxy S7 edge (USA),1,4,NaN,1,1,0,3686400,5.5,157,0,1
+Samsung Galaxy S7 mini,1,4,NaN,1,1,0,2073600,4.6,NaN,0,1
+Samsung Galaxy S7 active,1,4,NaN,1,1,0,3686400,5.1,184.8,0,1
+Huawei P10,1,1,NaN,1,1,0,2073600,5.1,145,0,1
+Huawei P10 Plus,1,1,NaN,1,1,0,3686400,5.5,165,0,1
+Huawei P10 Lite,1,1,NaN,1,1,0,2073600,5.2,146,0,1
