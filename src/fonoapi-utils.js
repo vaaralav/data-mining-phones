@@ -9,7 +9,12 @@ export const parseWithUnit = (value: string): number =>
 export const parseCores = (cpu: string): number => {
   const isQuad = cpu.toUpperCase().includes('QUAD');
   const isDual = !isQuad && cpu.toUpperCase().includes('DUAL');
+  const isOcta = cpu.toUpperCase().includes('OCTA');
   let cores = 1;
+
+  if(isOcta) {
+    cores = 8;
+  }
   if(isQuad) {
     cores = 4;
   }

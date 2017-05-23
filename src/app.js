@@ -9,7 +9,7 @@ import writePhonesToCSV from './csw-writer';
  */
 dotenv.config();
 
-async function main(argv: Array<string>) {
+async function main(argv: Array<string>): void {
 
   if (argv.length < 3) {
     throw new Error('File name as a command line argument must be provided.');
